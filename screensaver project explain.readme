@@ -1,0 +1,2 @@
+Simple code to demonstrate how the UI work and how to switch UI.
+In order to make the code connect to the UI, basically you have to drag the UI file to the runtime in IDE.
